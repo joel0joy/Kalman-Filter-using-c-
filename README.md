@@ -197,6 +197,6 @@ Each line shows the incoming noisy measurement alongside the filter's smoothed, 
 - Welch, G. & Bishop, G. — [*An Introduction to the Kalman Filter*](https://www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf), UNC Chapel Hill.
 - [Eigen documentation](https://eigen.tuxfamily.org/dox/)
 
-## License
+## Reach out for visualization and simulation codes.
 
-MIT License — see `LICENSE` for details.
+
